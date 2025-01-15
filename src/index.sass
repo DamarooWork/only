@@ -1,0 +1,71 @@
+
+$wrapper-width: 1440px
+$main-color: #42567A
+$main-border:  1px solid $main-color
+$content-padding: 80px
+body
+  font-family: "PT Sans", serif
+  margin: 0
+  box-sizing: border-box
+#root 
+  position: relative
+  max-width: $wrapper-width
+  width: 100vw
+  
+  margin: auto
+  box-sizing: border-box
+  color: $main-color
+  min-height: 100vh
+  font-size: 8px
+  @media (min-width: 640px) 
+    font-size: 10px
+  @media (min-width: 768px) 
+    font-size: 12px
+  @media (min-width: 1024px) 
+    font-size: 14px
+  @media (min-width: 1280px) 
+    font-size: 16px
+  @media (min-width: 1440px)
+    border-left: $main-border
+    border-right: $main-border
+    font-size: 20px
+  
+.wrapper
+  position: relative
+  min-height: 100vh
+.pagination
+  max-width: $wrapper-width
+  margin-right: auto
+  .disabled-arrow
+    opacity: 0.3
+    cursor: default
+ 
+  
+div.swiper
+  margin-left: 0
+  margin-right: 0
+.mySwiper
+  max-width: 88%
+  
+   
+.swiper-button-disabled  
+    visibility: hidden
+.review-swiper-button-next, 
+.review-swiper-button-prev 
+  border-radius: 9999px
+  padding: 10px
+  box-shadow: 0px 0px 15px 0px #3877EE1A
+  width: 15px
+  cursor: pointer
+
+.fade
+  overflow: hidden
+  animation: fadeTop 1s 200ms forwards
+  opacity: 0
+@keyframes fadeTop 
+  from 
+    transform: translateY(10px)
+  to 
+    transform: translateY(0)
+    opacity: 1
+

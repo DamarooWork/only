@@ -1,4 +1,4 @@
-import { useContext, useEffect, useRef } from 'react'
+import { useContext } from 'react'
 import styled from 'styled-components'
 import { DataContext } from '../../hooks/DataContext'
 // Основной круг

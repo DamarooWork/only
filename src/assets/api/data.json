@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "data": {
     "header": "Исторические даты",
@@ -215,3 +216,222 @@
     ]
   }
 }
+=======
+{
+  "data": {
+    "header": "Исторические даты",
+    "categories": [
+      {
+        "type": "Кино",
+        "events": [
+          {
+            "id": 1,
+            "date": 2011,
+            "description": "1+1, Франция • драма, Режиссёр: Оливье Накаш"
+          },
+          {
+            "id": 2,
+            "date": 2014,
+            "description": "Интерстеллар, США • фантастика,  Режиссёр: Кристофер Нолан"
+          },
+          {
+            "id": 3,
+            "date": 1994,
+            "description": "Побег из Шоушенка, США • драма,  Режиссёр: Фрэнк Дарабонт"
+          },
+          {
+            "id": 4,
+            "date": 1999,
+            "description": "Зеленая миля,США • драма,  Режиссёр: Фрэнк Дарабонт"
+          },
+          {
+            "id": 5,
+            "date": 2003,
+            "description": "Властелин колец: Возвращение короля, Новая Зеландия • фэнтези,  Режиссёр: Питер Джексон"
+          },
+          {
+            "id": 6,
+            "date": 2000,
+            "description": "Гладиатор, США • история, Режиссёр: Ридли Скотт  "
+          }
+        ]
+      },
+      {
+        "type": "Литература",
+        "events": [
+          {
+            "id": 1,
+            "date": 2009,
+            "description": "lorem lorem "
+          },
+          {
+            "id": 2,
+            "date": 2002,
+            "description": "lorem lorem lorem lorem lorem  lorem lorem "
+          },
+          {
+            "id": 3,
+            "date": 2004,
+            "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 4,
+            "date": 1960,
+            "description": "lorem lorem  lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 5,
+            "date": 2006,
+            "description": "lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 6,
+            "date": 2021,
+            "description": "lorem lorem lorem lorem  "
+          }
+        ]
+      },
+      {
+        "type": "Наука",
+        "events": [
+          {
+            "id": 1,
+            "date": 2000,
+            "description": "lorem lorem "
+          },
+          {
+            "id": 2,
+            "date": 1975,
+            "description": "13 сентября — частное солнечное затмение, видимое в Южной Африке и части Антарктиды "
+          },
+          {
+            "id": 3,
+            "date": 2004,
+            "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 4,
+            "date": 2005,
+            "description": "lorem lorem  lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 5,
+            "date": 2020,
+            "description": "lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 6,
+            "date": 2007,
+            "description": "lorem lorem lorem lorem  "
+          }
+        ]
+      },
+      {
+        "type": "Театр",
+        "events": [
+          {
+            "id": 1,
+            "date": 2000,
+            "description": "lorem lorem "
+          },
+          {
+            "id": 2,
+            "date": 2015,
+            "description": "lorem lorem lorem lorem lorem  lorem lorem "
+          },
+          {
+            "id": 3,
+            "date": 2004,
+            "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 4,
+            "date": 1985,
+            "description": "lorem lorem  lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 5,
+            "date": 2006,
+            "description": "lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 6,
+            "date": 2007,
+            "description": "lorem lorem lorem lorem  "
+          }
+        ]
+      },
+      {
+        "type": "Спорт",
+        "events": [
+          {
+            "id": 1,
+            "date": 2000,
+            "description": "lorem lorem "
+          },
+          {
+            "id": 2,
+            "date": 1920,
+            "description": "lorem lorem lorem lorem lorem  lorem lorem "
+          },
+          {
+            "id": 3,
+            "date": 2004,
+            "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 4,
+            "date": 2005,
+            "description": "lorem lorem  lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 5,
+            "date": 2010,
+            "description": "lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 6,
+            "date": 2007,
+            "description": "lorem lorem lorem lorem  "
+          }
+        ]
+      },
+      {
+        "type": "Люди",
+        "events": [
+          {
+            "id": 1,
+            "date": 1950,
+            "description": "lorem lorem "
+          },
+          {
+            "id": 2,
+            "date": 2002,
+            "description": "lorem lorem lorem lorem lorem  lorem lorem "
+          },
+          {
+            "id": 3,
+            "date": 2004,
+            "description": "lorem lorem lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 4,
+            "date": 2005,
+            "description": "lorem lorem  lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 5,
+            "date": 2006,
+            "description": "lorem lorem lorem lorem lorem lorem lorem "
+          },
+          {
+            "id": 6,
+            "date": 2025,
+            "description": "lorem lorem lorem lorem  "
+          }
+        ]
+      }
+    ]
+  }
+}
+>>>>>>> c9d17c6b20855c1e514c3123e9738daeb820468e

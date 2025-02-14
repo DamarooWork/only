@@ -5,3 +5,5 @@
 2. cd only
 3. npm i
 4. npm run dev
+
+Deploy: https://only-eta.vercel.app/
